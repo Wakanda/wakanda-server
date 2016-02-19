@@ -1,4 +1,4 @@
-## 1.0.1 (Feb. 19)
+## 1.0.2 (Feb. 19)
 
 - Fix : Windows x64 Installation Controller - Only shortcut is installed [#17](https://github.com/Wakanda/wakanda-issues/issues/17)
 
