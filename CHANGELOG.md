@@ -1,4 +1,4 @@
-## 1.1.0 (Apr. 29)
+## Pre-release 1.1.0 (Apr. 29)
 
 - [Directory] override the default session management by using the `directory.setSessionManager` API
 - [Services] `applicationWillStop` called before Workers are closed ([SO discussion](http://stackoverflow.com/a/35726567))
